@@ -1,4 +1,4 @@
-                    # CHURCH MEMBERSHIP GROWTH ANALYSIS.
+  # CHURCH MEMBERSHIP GROWTH ANALYSIS.
 
 
 # Project Overview
